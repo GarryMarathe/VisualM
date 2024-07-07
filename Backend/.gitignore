@@ -1,0 +1,46 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment packages
+venv/Lib/site-packages/
+.venv/Lib/site-packages/
+
+# IDE/Editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# MacOS
+.DS_Store
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Pytest cache
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Coverage reports
+*.coverage
+*.coverage.*
+*.gcov
+*.cover
+*.py,cover
+
+# Mypy
+.mypy_cache/
+
+# Pylint
+.pylint.d/
